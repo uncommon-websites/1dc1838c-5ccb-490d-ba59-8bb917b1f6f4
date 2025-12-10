@@ -30,7 +30,7 @@
     <div class="relative w-full h-[600px] overflow-hidden rounded-sm bg-primary-800">
       <!-- Image Overlay -->
       <img 
-        src="/generated/image-professional-business-meeting-with-pe-ex-1765404419460-0.webp" 
+        src="/generated/image-two-private-equity-professionals-meeting-1765404827518-0.webp" 
         alt="Professional research" 
         class="absolute inset-0 w-full h-full object-cover opacity-60 mix-blend-overlay grayscale contrast-125"
       />
@@ -43,14 +43,6 @@
         <!-- Secondary fainter curve -->
         <path d="M-100,600 C300,400 600,200 1500,300" stroke="white" stroke-width="1" stroke-opacity="0.15" vector-effect="non-scaling-stroke" />
       </svg>
-
-      <!-- Center Text -->
-      <div class="absolute inset-0 flex items-center justify-center">
-        <div class="flex items-center gap-2 text-white/80 text-[10px] tracking-[0.2em] font-medium uppercase">
-          <div class="w-[2px] h-3 bg-white/80"></div>
-          Speed Meets Quality
-        </div>
-      </div>
     </div>
   </div>
 </section>
