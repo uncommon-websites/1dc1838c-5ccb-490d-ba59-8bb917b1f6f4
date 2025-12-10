@@ -1,21 +1,28 @@
 <nav class="flex items-center justify-between px-6 py-4 bg-[#f5f5f5] text-sm font-medium border-b border-transparent">
   <div class="flex items-center gap-8">
     <div class="flex items-center gap-2">
-      <div class="font-bold text-lg tracking-wide flex items-center gap-1">
-        <div class="w-[3px] h-4 bg-black"></div>
-        ECHO
+      <div class="font-bold text-lg tracking-wide flex items-center gap-2">
+        <svg class="w-5 h-5 text-primary-600" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M12.2566 21.954C17.929 21.954 22.5274 17.484 22.5274 11.9699C22.5274 6.45586 17.929 1.98584 12.2566 1.98584C6.58422 1.98584 1.98584 6.45586 1.98584 11.9699C1.98584 17.484 6.58422 21.954 12.2566 21.954ZM15.4608 6.63684C15.6167 6.09831 15.0791 5.77985 14.5881 6.1199L7.73395 10.8665C7.20146 11.2352 7.28522 11.9699 7.85977 11.9699H9.66465V11.9563H13.1823L10.3161 12.9394L9.05251 17.303C8.89655 17.8415 9.43412 18.16 9.92517 17.8199L16.7793 13.0734C17.3118 12.7046 17.228 11.9699 16.6535 11.9699H13.9165L15.4608 6.63684Z"
+            fill="currentColor"
+          />
+        </svg>
+        DILIGENCED
       </div>
-      <span class="text-gray-500 ml-2">Early-stage investing</span>
+      <span class="text-gray-500 ml-2">Investor-grade market research</span>
     </div>
   </div>
 
   <div class="hidden md:flex items-center gap-8 absolute left-1/2 -translate-x-1/2">
-    <a href="/" class="text-gray-900 hover:text-gray-600">For investors +</a>
-    <a href="/" class="text-gray-500 hover:text-gray-900">For founders</a>
+    <a href="/" class="text-gray-900 hover:text-gray-600">Platform</a>
+    <a href="/" class="text-gray-500 hover:text-gray-900">Case studies</a>
   </div>
 
   <div class="flex items-center gap-6">
     <a href="/" class="text-gray-900 hover:text-gray-600">Log in</a>
-    <a href="/" class="bg-black text-white px-5 py-2 rounded text-xs font-medium hover:bg-gray-800 transition-colors">Sign up</a>
+    <a href="/" class="bg-black text-white px-5 py-2 rounded text-xs font-medium hover:bg-gray-800 transition-colors">Request demo</a>
   </div>
 </nav>

@@ -7,13 +7,13 @@
   }
 
   const faqs: FAQItem[] = [
-    { question: "Do I have to trust the lead investor with my investment?", answer: "Details about trust and lead investors..." },
-    { question: "How does Echo work?", answer: "Echo works by connecting..." },
-    { question: "I want to share my deals. Can I start a group?", answer: "Yes, you can start a group by..." },
-    { question: "I'm a founder. How do I raise money from Echo?", answer: "Founders can raise money by..." },
-    { question: "Is everyone eligible to use Echo?", answer: "Eligibility depends on..." },
-    { question: "Why do founders raise from Echo groups?", answer: "Founders choose Echo because..." },
-    { question: "Why would someone share their deals with me?", answer: "Sharing deals allows for..." }
+    { question: "How does Diligenced compare to traditional consulting firms?", answer: "Diligenced delivers the same investor-grade quality as firms like Bain and BCG, but in days instead of weeks. Our AI-moderated interviews and automated synthesis reduce turnaround time by 70% while maintaining the depth and rigor PE deal teams require for pre-LOI diligence." },
+    { question: "What types of research does Diligenced provide?", answer: "We specialize in pre-LOI commercial due diligence for private equity deal teams. This includes market sizing, competitive landscape analysis, customer interviews, and industry expert insights—everything you need to make confident investment decisions before signing a letter of intent." },
+    { question: "How quickly can I get results?", answer: "Most projects are delivered in 3-5 days. We understand that PE deal timelines are tight, especially in competitive processes. Our AI-powered platform enables us to conduct and synthesize expert interviews faster than traditional methods without sacrificing quality." },
+    { question: "Who conducts the interviews?", answer: "Our proprietary AI conducts interviews with industry experts, customers, and competitors. The AI is trained to ask probing follow-up questions and gather the nuanced insights you'd expect from experienced consultants. All interviews are then reviewed and synthesized by our team of former Blackstone, BCG, and Bain professionals." },
+    { question: "How much does Diligenced cost compared to traditional consulting?", answer: "Our pricing is significantly lower than traditional consulting firms while delivering comparable quality. Contact us for a custom quote based on your specific research needs and deal parameters." },
+    { question: "What industries do you cover?", answer: "We cover all major industries relevant to private equity investing. Our AI interview platform is industry-agnostic, and our team has experience across technology, healthcare, financial services, consumer goods, and industrial sectors." },
+    { question: "Can I see a sample report?", answer: "Yes! We're happy to share sample reports with qualified PE professionals. Request a demo to see examples of our work and discuss how we can support your deal pipeline." }
   ];
 
   let openIndex: number | null = null;
