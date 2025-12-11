@@ -30,7 +30,7 @@
     <div class="relative w-full h-[600px] overflow-hidden rounded-sm bg-primary-800">
       <!-- Image Overlay -->
       <img 
-        src="/generated/image-professional-business-meeting-with-a-man-1765436760743-0.webp" 
+        src="/uploaded/1765445198021-0onj9k4.jpg" 
         alt="Professional research" 
         class="absolute inset-0 w-full h-full object-cover opacity-60 mix-blend-overlay grayscale contrast-125"
       />
