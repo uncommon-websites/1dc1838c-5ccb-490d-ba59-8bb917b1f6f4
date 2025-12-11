@@ -4,7 +4,6 @@
       <div class="font-bold text-lg tracking-wide">
         DILIGENCED
       </div>
-      <span class="text-gray-500 ml-2">Investor-grade market research</span>
     </div>
   </div>
 

@@ -1,12 +1,12 @@
 <section class="bg-[#f5f5f5] px-6 pt-16 pb-0">
   <div class="max-w-[1400px] mx-auto">
     <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 mb-16">
-      <div class="lg:col-span-7">
+      <div class="lg:col-span-7 flex flex-col justify-end">
         <h1 class="font-serif text-5xl md:text-6xl lg:text-[64px] leading-[1.1] tracking-tight text-gray-900">
           Investor-grade market research delivered in days, not weeks
         </h1>
       </div>
-      <div class="lg:col-span-5 flex flex-col justify-between">
+      <div class="lg:col-span-5 flex flex-col justify-end">
         <p class="text-gray-500 text-lg max-w-md leading-relaxed">
           AI-moderated expert interviews and automated synthesis deliver the insights PE deal teams need for pre-LOI diligence—faster than traditional consulting.
         </p>
@@ -30,7 +30,7 @@
     <div class="relative w-full h-[600px] overflow-hidden rounded-sm bg-primary-800">
       <!-- Image Overlay -->
       <img 
-        src="/generated/image-two-private-equity-professionals-meeting-1765404827518-0.webp" 
+        src="/generated/image-professional-business-meeting-with-a-man-1765436760743-0.webp" 
         alt="Professional research" 
         class="absolute inset-0 w-full h-full object-cover opacity-60 mix-blend-overlay grayscale contrast-125"
       />
