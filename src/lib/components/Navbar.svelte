@@ -2,7 +2,7 @@
   <div class="flex items-center gap-8">
     <div class="flex items-center gap-2">
       <div class="font-bold text-lg tracking-wide">
-        DILIGENCED
+        VERIDIC
       </div>
     </div>
   </div>
